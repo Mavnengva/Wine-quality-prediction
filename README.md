@@ -1,5 +1,6 @@
 # Wine-quality-prediction
-Objective
+Objective:
+
 The goal is to choose one suitable algorithm to predict: "wine quality" by accuracy evaluation methods. 
 By the use of several Machine learning models, i will predict the quality of the wine, according to it's features.
 
