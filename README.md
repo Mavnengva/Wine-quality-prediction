@@ -1,4 +1,5 @@
-# Wine-quality-prediction
+
+# Wine-quality-prediction (Лаба 1 & 2)
 Objectives:
 
  The objectives of this project are as follows
@@ -30,3 +31,24 @@ Wine is an alcoholic beverage made from grapes which is fermented without the ad
 Red wine is made from dark red and black grapes. The color usually ranges from various shades of red, brown and violet. This is produced with whole grapes including the skin which adds to the color and flavor of red wines, giving it a rich flavor.
 
 White wine is made from white grapes with no skins or seeds. The color is usually straw-yellow, yellow-green, or yellow-gold. Most white wines have a light and fruity flavor as compared to richer red wines.
+
+ЛАБ 2
+Generally, our measurements and model scores worked well to show the aim of the study. This study can be completed in a shorter way as well without repeating similar functions; however, this study also aims to use different methods to have accurate scores from variable sources.
+I used the following algorithms as my models:
+
+Dummy Classifer       
+KNN        
+Decision Tree         
+Logistic Regression 
+
+i created a models to predict the quality of the wines. For these models we are going to use the  wine dataset that didn't have the derived variable 'rating'. First we will have to split our dataset into training and testing sets. Training set wiill be used to craete our model and we will predict over testing set.
+As the data has been processed, we will proceed with Model Deployment. Different methods will be tested to finalize the best fit modal for the Wine Quality prediction.
+The score for the models:
+
+Dummy Classifer:       50.0 %
+KNN:                   98.7 %
+Decision Tree:         97.6 %
+Logistic Regression:   98.3 %
+It can be concluded that KNN is the most accurate model for our dataset, with 98.7 percentages of success.
+
+I focused on classification methods on this study. However, I agree that other algorithms can be more successful such as KNN and Logistic Regression  give better results. 
