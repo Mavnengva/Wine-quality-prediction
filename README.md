@@ -47,9 +47,13 @@ As the data has been processed, we will proceed with Model Deployment. Different
 The score for the models:
 
 Dummy Classifer:       50.0 %
+
 KNN:                   98.7 %
+
 Decision Tree:         97.6 %
+
 Logistic Regression:   98.3 %
+
 It can be concluded that KNN is the most accurate model for our dataset, with 98.7 percentages of success.
 
 I focused on classification methods on this study. However, I agree that other algorithms can be more successful such as KNN and Logistic Regression  give better results. 
