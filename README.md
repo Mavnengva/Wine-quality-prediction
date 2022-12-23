@@ -32,7 +32,8 @@ Red wine is made from dark red and black grapes. The color usually ranges from v
 
 White wine is made from white grapes with no skins or seeds. The color is usually straw-yellow, yellow-green, or yellow-gold. Most white wines have a light and fruity flavor as compared to richer red wines.
 
-ЛАБ 2
+## ЛАБ 2
+
 Generally, our measurements and model scores worked well to show the aim of the study. This study can be completed in a shorter way as well without repeating similar functions; however, this study also aims to use different methods to have accurate scores from variable sources.
 I used the following algorithms as my models:
 
